@@ -1,0 +1,6 @@
+name: ChuckyGrief
+version: 1.0-SNAPSHOT
+author: Your Name
+main: me.zenisbestwolf.ChuckyGrief.Main
+description: Description.
+api-version: 1.15
