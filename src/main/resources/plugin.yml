@@ -1,6 +1,10 @@
 name: ChuckyGrief
 version: 1.0-SNAPSHOT
-author: Your Name
+author: Zen Wolf
 main: me.zenisbestwolf.ChuckyGrief.Main
-description: Description.
-api-version: 1.15
+description: Basic grief alert system for the ignChucky SMP server.
+api-version: 1.16
+permissions:
+    chuckygrief.receive:
+        description: "Permission to receive broadcasts."
+        default: op
